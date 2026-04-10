@@ -154,7 +154,7 @@ Live generates a new MIDI pattern inside the clip.
 ## Notes
 
 * Transformations only affect selected notes
-* Generators overwrite selected region
+* Generators overwrite the selected region
 * Results may vary depending on scale settings
 
 ---
