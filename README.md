@@ -34,17 +34,10 @@ Documentation for multistage saturation device.
 
 ---
 
-### 3. Browser Tagging & Search Improvements
+### 3. Browser Tagging, Search Improvements & Release Notes
 Documentation for improved browsing workflows.
 
-→ [View Documentation](./browser-tagging/browser-tagging.md)
-
----
-
-### 4. Live 12 Release Notes
-Example release notes for new features.
-
-→ [View Release Notes](./release-notes/live-12-release-notes.md)
+→ [View Documentation](./browser-tagging/browser-tagging-and-release-notes.md)
 
 ---
 
