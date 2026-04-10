@@ -155,7 +155,9 @@ Live generates a new MIDI pattern inside the clip.
 
 ---
 
-## Release Notes Example
+# Release Notes Example
+
+### Live 12 - MIDI Transformations & Generators
 
 * Added MIDI Transformations for modifying note data
 * Introduced MIDI Generators for creating new patterns
