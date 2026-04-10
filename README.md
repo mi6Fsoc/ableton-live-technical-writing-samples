@@ -1,4 +1,8 @@
-# Ableton Live 12 — Technical Writing Portfolio
+# Ableton Live Technical Writing Portfolio
+
+![Technical Writing](https://img.shields.io/badge/Technical-Writing-blue)
+![Ableton](https://img.shields.io/badge/Ableton-Live-black)
+![Documentation](https://img.shields.io/badge/Documentation-Sample-green)
 
 Technical writing samples created by Mihir Phale  
 Applying for Technical Writer — Ableton Documentation Team
@@ -71,9 +75,3 @@ I'm a Berlin-based audio professional, creative technologist, and vibe coder wit
 mihir.phale@gmail.com
 Mihir Phale  
 Berlin, Germany  
-
-# Ableton Live Technical Writing Portfolio
-
-![Technical Writing](https://img.shields.io/badge/Technical-Writing-blue)
-![Ableton](https://img.shields.io/badge/Ableton-Live-black)
-![Documentation](https://img.shields.io/badge/Documentation-Sample-green)
