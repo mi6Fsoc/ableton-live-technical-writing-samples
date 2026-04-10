@@ -23,7 +23,7 @@ This portfolio contains technical documentation samples written in the style of 
 ### 1. MIDI Transformations & Generators
 Documentation for MIDI generation and transformation tools.
 
-→ [View Documentation](./midi-transformations/midi-transformations.md)
+→ [View Documentation](midi-transformations/midi-transformations.md)
 
 ---
 
