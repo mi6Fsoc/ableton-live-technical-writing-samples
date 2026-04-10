@@ -37,7 +37,7 @@ Documentation for the multistage saturation device.
 ### 3. Browser Tagging & Search Improvements
 Documentation for improved browsing workflows.
 
-→ [View Documentation](browser-tagging-and-release-notes/browser-tagging-and-search-improvements.md)
+→ [View Documentation](browser-tagging-and-search-improvements/browser-tagging-and-search-improvements.md)
 
 ---
 
