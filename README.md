@@ -30,7 +30,7 @@ Documentation for MIDI generation and transformation tools.
 ### 2. Roar Device Documentation
 Documentation for the multistage saturation device.
 
-→ [View Documentation](./roar-device/roar-device.md)
+→ [View Documentation](roar-device/roar-device.md)
 
 ---
 
