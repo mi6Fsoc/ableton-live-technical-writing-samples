@@ -1,2 +1,73 @@
-# ableton-live-technical-writing-samples
-Technical Writing Sample — Ableton Live 12 Documentation
+# Ableton Live 12 — Technical Writing Portfolio
+
+Technical writing samples created by Mihir Phale  
+Applying for Technical Writer — Ableton Documentation Team
+
+## Overview
+
+This portfolio contains technical documentation samples written in the style of Ableton Live documentation. These samples demonstrate:
+
+- Technical writing clarity
+- Documentation structure
+- Feature explanation
+- Release notes writing
+- User workflow documentation
+- Audio software knowledge
+
+## Samples
+
+### 1. MIDI Transformations & Generators
+Documentation for MIDI generation and transformation tools.
+
+→ [View Documentation](./midi-transformations/midi-transformations.md)
+
+---
+
+### 2. Roar Device Documentation
+Documentation for multistage saturation device.
+
+→ [View Documentation](./roar-device/roar-device.md)
+
+---
+
+### 3. Browser Tagging & Search Improvements
+Documentation for improved browsing workflows.
+
+→ [View Documentation](./browser-tagging/browser-tagging.md)
+
+---
+
+### 4. Live 12 Release Notes
+Example release notes for new features.
+
+→ [View Release Notes](./release-notes/live-12-release-notes.md)
+
+---
+
+## Skills Demonstrated
+
+- Technical Writing
+- Audio Software Documentation
+- UX Documentation
+- Release Notes Writing
+- Feature Documentation
+- User Workflow Documentation
+
+---
+
+## About Me
+
+I'm a Berlin-based audio professional, creative technologist, and vibe coder with a background in audio production and AI workflows.
+
+- BA (Hons) Audio Production & Engineering  
+- Technical documentation experience  
+- Strong Ableton Live knowledge  
+- AI & workflow documentation  
+
+---
+
+## Contact
+
+mihir.phale@gmail.com
+Mihir Phale  
+Berlin, Germany  
