@@ -152,3 +152,13 @@ Live generates a new MIDI pattern inside the clip.
 * Transformations only affect selected notes
 * Generators overwrite the selected region
 * Results may vary depending on scale settings
+
+---
+
+## Release Notes Example
+
+* Added MIDI Transformations for modifying note data
+* Introduced MIDI Generators for creating new patterns
+* Added scale-aware pitch and harmony tools
+* Improved MIDI editing workflow with contextual controls
+* Added parameter controls for density, variation, and complexity
